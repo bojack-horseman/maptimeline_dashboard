@@ -1,0 +1,492 @@
+[
+    {
+        "year": "2015",
+        "data": [
+            {
+                "month": "Dec",
+                "title": "The entire music catalog of the Beatles is released on Spotify"
+            }
+        ]
+    },
+    {
+        "year": "2010",
+        "data": [
+            {
+                "day": "16",
+                "month": "Nov",
+                "title": "The entire music catalog of the Beatles is released on iTunes"
+            }
+        ]
+    },
+    {
+        "year": "2001",
+        "data": [
+            {
+                "day": "29",
+                "month": "Nov",
+                "title": "George Harrison dies of cancer in Los Angeles",
+                "latitud": "34.049246",
+                "longitud": "-478.234863"
+            }
+        ]
+    },
+    {
+        "year": "1980",
+        "data": [
+            {
+                "day": "08",
+                "month": "Dec",
+                "title": "Outside his apartment building in New York City, Lennon is shot and killed by Mark David Chapman",
+                "latitud": "40.720201",
+                "longitud": "-433.987427"
+            }
+        ]
+    },
+    {
+        "year": "1970",
+        "data": [
+            {
+                "day": "11",
+                "month": "Jan",
+                "title": "McCartney announces that he has left the Beatles"
+            },
+            {
+                "day": "08",
+                "month": "May",
+                "title": "Let It Be, which was recorded before Abbey Road, is released in the U.K. where it rockets to the number one position."
+            },
+            {
+                "day": "20",
+                "month": "May",
+                "title": "Let It Be, the documentary, premieres in London. None of the Beatles are in attendance",
+                "latitud": "51.399206",
+                "longitud": "-360.087891"
+            }
+        ]
+    },
+    {
+        "year": "1969",
+        "data": [
+            {
+                "day": "13",
+                "month": "Jan",
+                "title": "Yellow Submarine, the soundtrack, is released in the U.S. and reaches the number two position on Billboard's album chart."
+            },
+            {
+                "day": "30",
+                "month": "Jan",
+                "title": "The Beatles perform together for the very last time on the rooftop of Apple Corps Ltd. in London"
+            },
+            {
+                "month": "Sep",
+                "title": "Although he doesn't announce it publicly due to contract negotiations with the label EMI, Lennon decides to leave the Beatles"
+            },
+            {
+                "day": "26",
+                "month": "Sep",
+                "title": "Abbey Road is released in the U.K. where it soars to the top of the charts. It is the Beatles' last studio album"
+            },
+            {
+                "day": "25",
+                "month": "Nov",
+                "title": "Lennon returns his Member of the British Empire medal as an anti-war protest"
+            }
+        ]
+    },
+    {
+        "year": "1968",
+        "data": [
+            {
+                "month": "Feb",
+                "title": "The Beatles spend several weeks in Rishikesh, India where they attend a seminar by Maharishi Mahesh Yogi on TM",
+                "latitud": "30.106375",
+                "longitud": "-281.712284"
+            },
+            {
+                "day": "14",
+                "month": "May",
+                "title": "Lennon and McCartney guest on The Tonight Show and announce their new company, Apple (Apple Corps Ltd.),helping young artists"
+            },
+            {
+                "day": "17",
+                "month": "Jul",
+                "title": "The animated film, Yellow Submarine, premieres in London"
+            },
+            {
+                "day": "22",
+                "month": "Nov",
+                "title": "The album, The Beatles, is released in Britain and the United States. Also known as the White Album"
+            }
+        ]
+    },
+    {
+        "year": "1967",
+        "data": [
+            {
+                "day": "01",
+                "month": "Jun",
+                "title": "Sgt. Pepper's Lonely Hearts Club Band is released in the U.K. and rises to the number one spot on Britain's album chart for 27 weeks"
+            },
+            {
+                "day": "25",
+                "month": "Jun",
+                "title": "Our World, a two-hour television program airs in 24 countries via satellite. It is the first live television show to air worldwide",
+                "latitud": "75.140778",
+                "longitud": "-687.65625"
+            },
+            {
+                "day": "27",
+                "month": "Aug",
+                "title": "The Beatles visit Maharishi Mahesh Yogi to learn about TM when they learn that, Brian Epstein has died"
+            },
+            {
+                "day": "27",
+                "month": "Nov",
+                "title": "Magical Mystery Tour is released in the U.S. and goes to number one on Billboard's album chart"
+            },
+            {
+                "day": "26",
+                "month": "Dec",
+                "title": "Magical Mystery Tour,featuring the Beatles airs in the U.K. An estimated 14 million people watch it"
+            }
+        ]
+    },
+    {
+        "year": "1966",
+        "data": [
+            {
+                "day": "05",
+                "month": "Aug",
+                "title": "Revolver is released in the U.K. and goes straight to number one on the British album chart"
+            },
+            {
+                "day": "29",
+                "month": "Aug",
+                "title": "The Beatles perform their last live concert in San Francisco, Ca",
+                "latitud": "37.757687",
+                "longitud": "-482.371216"
+
+            }
+        ]
+    },
+    {
+        "year": "1965",
+        "data": [
+            {
+                "day": "23",
+                "month": "Feb",
+                "title": "The Beatles start shooting their second movie, Help!. Filming takes place in the Bahamas. The film costs $1.5 million to produce"
+            },
+            {
+                "day": "12",
+                "month": "Jun",
+                "title": "The Queen of England names the Beatles Members of the British Empire"
+            },
+            {
+                "day": "29",
+                "month": "Jul",
+                "title": "Help! has its London premiere. The film is a hit"
+            },
+            {
+                "day": "06",
+                "month": "Aug",
+                "title": "Help!, the album is released in the U.K. and becomes number one on the British album chart"
+            },
+            {
+                "day": "11",
+                "month": "Aug",
+                "title": "Help!, the film, opens in the United States where it is also a hit"
+            },
+            {
+                "day": "15",
+                "month": "Aug",
+                "title": "The Beatles perform at Shea Stadium in New York for 55,600 people, a record in attendance. The concert grossed $304,000",
+                "latitud": "41.023622",
+                "longitud": "-433.922024"
+            },
+            {
+                "day": "03",
+                "month": "Dec",
+                "title": "Rubber Soul is released in the U.K. rises to number one, three days later in the U.S"
+            }
+        ]
+    },
+    {
+        "year": "1964",
+        "data": [
+            {
+                "day": "20",
+                "month": "Jan",
+                "title": "Capitol Records releases Meet the Beatles! in the United States"
+            },
+            {
+                "day": "07",
+                "month": "Feb",
+                "title": "The British Invasion begins when the Beatles land at JFK Airport in New York. Fans greet them there and later surround the Plaza Hotel.",
+                "latitud": "40.605612",
+                "longitud": "-433.781433"
+            },
+            {
+                "day": "09",
+                "month": "Feb",
+                "title": "A record 73 million people watch The Beatles on The Ed Sullivan Show."
+            },
+            {
+                "day": "11",
+                "month": "Feb",
+                "title": "The Beatles perform live at the Washington Coliseum in Washington D.C., their first performance in the United States"
+            },
+            {
+                "day": "12",
+                "month": "Feb",
+                "title": "The Beatles perform live in New York City for the first time. The concert is at Carnegie Hall. The release is a flop"
+            },
+            {
+                "day": "15",
+                "month": "Feb",
+                "title": "Meet the Beatles! reaches the number one spot on Billboard's album chart. It stays there for 11 weeks"
+            },
+            {
+                "day": "02",
+                "month": "Mar",
+                "title": "The Beatles begin filming their first film, A Hard Day's Night. Filming is completed eight weeks later"
+            },
+            {
+                "day": "31",
+                "month": "Mar",
+                "title": "The Beatles have songs in the top five positions of the Billboard's singles chart.This is a first for Billboard"
+            },
+            {
+                "day": "04",
+                "month": "Apr",
+                "title": "The Beatles have 14 songs in Billboard's Hot 100 singles chart"
+            },
+            {
+                "day": "06",
+                "month": "Jul",
+                "title": "A Hard Day's Night premieres in London and receives good reviews from both the public and critics"
+            },
+            {
+                "day": "10",
+                "month": "Jul",
+                "title": "A Hard Day's Night, the soundtrack, is released in the U.K. where it immediately hits number one on the British album chart"
+            },
+            {
+                "day": "11",
+                "month": "Aug",
+                "title": "A Hard Day's Night, the film, opens in the U.S. and becomes an instant hit"
+            },
+            {
+                "month": "Aug",
+                "title": "A Hard Day's Night, the soundtrack, is released in the U.S. and goes straight to number one"
+            },
+            {
+                "day": "19",
+                "month": "Aug",
+                "title": "The Beatles begin their tour of the U.S. and Canada in San Francisco at the Cow Palace. The tour lasts one month",
+                "latitud": "45.614037",
+                "longitud": "-435.673828"
+            },
+            {
+                "day": "04",
+                "month": "Dec",
+                "title": "Beatles For Sale, the album, comes out in the U.K. and hits number one on chart"
+            }
+        ]
+    },
+    {
+        "year": "1963",
+        "data": [
+            {
+                "day": "11",
+                "month": "Jan",
+                "title": "The band's second single, Please Please Me, is released in the United Kingdom"
+            },
+            {
+                "day": "11",
+                "month": "Feb",
+                "title": "The Beatles record their first album, also called Please Please Me, in one day. Ten songs are recorded which were previously recorded"
+            },
+            {
+                "day": "22",
+                "month": "Feb",
+                "title": "The song Please Please Me hits number one on the British singles chart and remains there for two weeks"
+            },
+            {
+                "day": "22",
+                "month": "Mar",
+                "title": "The album Please Please Me comes out in the U.K. and is an instant hit there. The album is number one for 29 weeks"
+            },
+            {
+                "month": "Jul",
+                "title": "The album Please Please Me is released in the U.S., but is titled Introducing the Beatles. The release is a flop"
+            },
+            {
+                "month": "Oct",
+                "title": "The Beatles popularity spreads from the U.K. throughout Europe. This is considered the start of Beatlemania"
+            },
+            {
+                "day": "13",
+                "month": "Oct",
+                "title": "15 million people watch the Beatles perform on ITV's Sunday Night at the London Palladium. The show is the U.K. equivalent of The Ed Sullivan Show"
+            },
+            {
+                "day": "04",
+                "month": "Nov",
+                "title": "The Beatles perform for Queen Elizabeth II, Lord Snowdon, and Princess Margaret at the Royal Command Performance."
+            },
+            {
+                "day": "22",
+                "month": "Nov",
+                "title": "the Beatles' second album comes out in the U.K. holds the number one position on the British album chart for 21 weeks."
+            },
+            {
+                "day": "29",
+                "month": "Nov",
+                "title": "The song I Want To Hold Your Hand has its U.K. release and goes right to the top spot on the charts"
+            },
+            {
+                "day": "26",
+                "month": "Dec",
+                "title": "I Want To Hold Your Hand is released in the U.S. and goes to number one."
+            }
+        ]
+    },
+    {
+        "year": "1962",
+        "data": [
+            {
+                "day": "01",
+                "month": "Jan",
+                "title": "The band has an unsuccessful audition for Decca Records in London"
+            },
+            {
+                "day": "10",
+                "month": "Apr",
+                "title": "Stuart Sutcliffe dies from a brain hemorrhage"
+            },
+            {
+                "day": "09",
+                "month": "May",
+                "title": "The band signs their first recording contract. They hire George Martin to be their producer."
+            },
+            {
+                "day": "16",
+                "month": "Aug",
+                "title": "Pete Best leaves the band"
+            },
+            {
+                "day": "18",
+                "month": "Aug",
+                "title": "Ringo Starr joins the Beatles"
+            },
+            {
+                "day": "11",
+                "month": "Sep",
+                "title": "The Beatles record their first single, Love Me Do"
+            },
+            {
+                "day": "05",
+                "month": "Oct",
+                "title": "Love Me Do, the band's first single, is released in the United Kingdom."
+            }
+        ]
+    },
+    {
+        "year": "1961",
+        "data": [
+            {
+                "day": "07",
+                "month": "Spr",
+                "title": "Stuart Sutcliffe quits the band"
+            },
+            {
+                "month": " Nov",
+                "title": "Brian Epstein meets the Beatles. He becomes their manager"
+            }
+        ]
+    },
+    {
+        "year": "1960",
+        "data": [
+            {
+                "month": "Jan",
+                "title": "Stuart Sutcliffe, Lennon's friend, joins the Quarrymen. They change their name to the Silver Beetles and later to Silver Beatles"
+            },
+            {
+                "month": "Aug",
+                "title": "Pete Best joins the band as their drummer. The group changed its name to the Beatles. In Hamburg, they find its sound and identity",
+                "latitud": "53.546836",
+                "longitud": "-349.996948"
+            },
+            {
+                "day": "27",
+                "month": "Dec",
+                "title": "Returning to Liverpool, the Beatles play Litherland Town Hall. The performance creates buzz and frenzy"
+            }
+        ]
+    },
+    {
+        "year": "1958",
+        "data": [
+            {
+                "month": "Feb",
+                "title": "George Harrison joins the Quarrymen. He is 15 years old"
+            }
+        ]
+    },
+    {
+        "year": "1957",
+        "data": [
+            {
+                "day": "06",
+                "month": "Jul",
+                "title": "The Quarrymen perform at St. Peter's Woolton Parish Church. John asks Paul to join the band"
+            }
+        ]
+    },
+    {
+        "year": "1956",
+        "data": [
+            {
+                "month": "Sum",
+                "title": "At age 16, John Lennon gathers some pals and forms a band called the Quarrymen"
+            }
+        ]
+    },
+    {
+        "year": "1943",
+        "data": [
+            {
+                "day": "24",
+                "month": "Feb",
+                "title": "George Harrison is born in Liverpool"
+            }
+        ]
+    },
+    {
+        "year": "1942",
+        "data": [
+            {
+                "day": "18",
+                "month": "Jun",
+                "title": "Paul McCartney is born in Liverpool"
+            }
+        ]
+    },
+    {
+        "year": "1940",
+        "data": [
+            {
+                "day": "07",
+                "month": "Jul",
+                "title": "Richard Starkey is born in Liverpool. He later changes his name to Ringo Starr"
+            },
+            {
+                "day": "09",
+                "month": "Oct",
+                "title": "John Lennon is born in Liverpool"
+            }
+        ]
+    }
+]
